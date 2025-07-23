@@ -1,0 +1,4 @@
+- uses: actions/configure-pages@v4
+  with:
+    token: ${{ secrets.GITHUB_TOKEN }}
+    enablement: true
